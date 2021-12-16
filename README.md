@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @Vanshikavikal
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 About Meh:
+Currently learning Python, JavaScript & Bash.
+Making some Telegram Bots 
+Busy Student ❤️😌
+Speaking Languages:
+Hindi
+English
+
 
 <!---
 Vanshikavikal/Vanshikavikal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
